@@ -83,6 +83,6 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    [self.view addSubview:self.imageView];
+    [self.scrollView addSubview:self.imageView];
 }
 @end
